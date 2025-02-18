@@ -61,7 +61,7 @@ High Speed diferential lines need a refrence ground plane so internal planes are
 ![Schematic](/USB%203.2%20gen%201%20to%20Gigabit%20Ethernet.pdf)
 ## PCB Screenshots
 
-![usb3satafront](pcb%20pics/front.png)
-![usb3sataback](pcb%20pics/back.png)
-![usb3satafront3d](pcb%20pics/front3d.png)
-![usb3sataback3d](pcb%20pics/back3d.png)
+![usb3ethfront](pics/front.png)
+![usb3ethback](pics/back.png)
+![usb3ethfront3d](pics/front_3d.png)
+![usb3ethback3d](pics/back_3d.png)
