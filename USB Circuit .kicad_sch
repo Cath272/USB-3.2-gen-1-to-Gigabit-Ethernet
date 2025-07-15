@@ -3664,7 +3664,7 @@
 				)
 			)
 		)
-		(property "Footprint" "da:USB-C-SMD_TYPEC-324-BCP24"
+		(property "Footprint" "easyeda2kicad:USB-C-SMD_TYPEC-324-BCP24"
 			(at 160.02 160.02 0)
 			(effects
 				(font
@@ -4560,7 +4560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "da:MQFN-28_L4.5-W3.5-P0.40-BL-EP"
+		(property "Footprint" "easyeda2kicad:MQFN-28_L4.5-W3.5-P0.40-BL-EP"
 			(at 173.99 88.9 0)
 			(effects
 				(font

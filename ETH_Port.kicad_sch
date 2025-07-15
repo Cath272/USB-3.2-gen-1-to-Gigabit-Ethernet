@@ -5233,7 +5233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "da:RJ45-TH_HR911130A"
+		(property "Footprint" "easyeda2kicad:RJ45-TH_HR911130A"
 			(at 160.02 137.16 0)
 			(effects
 				(font

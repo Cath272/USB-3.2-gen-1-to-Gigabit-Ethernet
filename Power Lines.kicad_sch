@@ -4005,7 +4005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "da:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR"
+		(property "Footprint" "easyeda2kicad:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR"
 			(at 241.3 71.12 0)
 			(effects
 				(font

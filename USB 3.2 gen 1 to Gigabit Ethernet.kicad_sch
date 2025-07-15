@@ -4556,7 +4556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "da:QFN-48_L6.0-W6.0-P0.40-TL-EP4.4"
+		(property "Footprint" "easyeda2kicad:QFN-48_L6.0-W6.0-P0.40-TL-EP4.4"
 			(at 194.31 138.43 0)
 			(effects
 				(font
@@ -4842,7 +4842,7 @@
 				)
 			)
 		)
-		(property "Footprint" "da:SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL"
+		(property "Footprint" "easyeda2kicad:SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL"
 			(at 59.69 138.43 0)
 			(effects
 				(font
