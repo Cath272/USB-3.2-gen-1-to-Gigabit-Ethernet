@@ -2,11 +2,6 @@
  Gigabit Ethenet to USB C using VL162 and RTL8153
 
 
- Simple Usb C to Displayport Adapter using the VL100-Q3/VL103-Q3 ic
- VL103-Q3 does not need external crystal but VL100-Q3 can be found cheaper 
-
- The design is not final!
-
  ## VL162
 
   - 4:2 10Gbps USB Type-C Data Switch
