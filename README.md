@@ -8,7 +8,6 @@
 
   - Low power consumption with 6mW active at device mode
 
-  - USB Billboard Device
 
  ## RTL8153 
 
